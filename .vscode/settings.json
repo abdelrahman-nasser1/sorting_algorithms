@@ -2,11 +2,11 @@
 	"cmake.configureOnOpen": false,
 	"files.associations": {
 		"array": "c",
-		"deque": "c",
 		"string": "c",
+		"deque": "c",
 		"unordered_map": "c",
-		"vector": "c",
 		"string_view": "c",
 		"initializer_list": "c"
+		"vector": "c",
 	}
 }
